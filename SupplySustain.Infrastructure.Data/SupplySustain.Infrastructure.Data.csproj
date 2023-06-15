@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SupplySustain.Core.Contracts\SupplySustain.Core.Contracts.csproj" />
+    <ProjectReference Include="..\SupplySustain.Infrastructure.EF\SupplySustain.Infrastructure.EF.csproj" />
+  </ItemGroup>
+
+</Project>
